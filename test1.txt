@@ -1,1 +1,3 @@
-checking, added
+checking, added, new line 
+
+checking diff
